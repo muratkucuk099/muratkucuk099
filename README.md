@@ -32,6 +32,7 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 [<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
 [<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/ios/ios.png" />][ios]
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/linux/linux.png" />][Linux]
 <br />
 
 [vsCode]: https://code.visualstudio.com/
@@ -40,4 +41,5 @@
 [python]: https://www.python.org/
 [android]: https://www.android.com/
 [ios]: https://www.apple.com/ios/ios-15/
+[Linux]: https://www.linux.com/
 
