@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on Android Studio
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on other java developer
-- <br />
+ <br />
 
 ### 📩 Connect with me:
 
