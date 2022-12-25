@@ -8,9 +8,9 @@
 ## I'm a Student 👨‍🎓 and Backend Developer 🚀
 
 
-- 🔭 I’m currently working on Android Studio
-- 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on other java developer
+- 🔭 I’m currently working on Swift and Flutter
+- 🌱 I’m currently learning Mobile Application Development
+- 👯 I’m looking to collaborate on other Mobile Developer
  <br />
 
 ### 📩 Connect with me:
