@@ -26,20 +26,20 @@
 ### 🔧 Languages and Tools:
 
 
+[<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/ios/ios.png" />][ios]
+[<img align="left" alt="Flutter" width="26px"
+src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png" />][flutter]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/java/java.png" />][Java]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/unity/unity.png" />][Unity]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 [<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
-[<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/ios/ios.png" />][ios]
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/linux/linux.png" />][Linux]
 <br />
 
+[ios]: https://www.apple.com/ios/ios-15/
 [vsCode]: https://code.visualstudio.com/
 [Java]: https://www.java.com/
 [Unity]: https://unity.com/
-[python]: https://www.python.org/
 [android]: https://www.android.com/
-[ios]: https://www.apple.com/ios/ios-15/
-[Linux]: https://www.linux.com/
+[flutter]: [https://www.android.com/](https://flutter.dev)
+
 
