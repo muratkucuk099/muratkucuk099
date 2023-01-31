@@ -40,6 +40,6 @@ src="[https://docs.flutter.dev/assets/images/flutter-logo-sharing.png](https://c
 [Java]: https://www.java.com/
 [Unity]: https://unity.com/
 [android]: https://www.android.com/
-[flutter]: [https://www.android.com/](https://flutter.dev)
+[flutter]: https://flutter.dev/
 
 
