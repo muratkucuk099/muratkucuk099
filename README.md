@@ -5,7 +5,7 @@
 
 
 
-## I'm a Student 👨‍🎓 and Mobile Developer 🚀
+## I'm a Student 👨‍🎓 and IOS Mobile Developer 🚀
 
 
 - 🔭 I’m currently working on Swift and Flutter
